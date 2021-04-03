@@ -1,4 +1,6 @@
-Images_train/subho.jpg
-Images_train/subho1.jpg
+Images_train/*
 facefeatures_new_model.h5
-Datasets
+Datasets/Test/subho/*
+Datasets/Test/tublu/*
+Datasets/Train/subho/*
+Datasets/Train/tublu/*
